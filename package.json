@@ -1,0 +1,10 @@
+{
+  "name": "magnus-lab",
+  "version": "1.0.0",
+  "description": "WebGPU visualization of the Magnus effect on baseball pitches",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node serve.mjs"
+  }
+}
